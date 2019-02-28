@@ -6,3 +6,4 @@ Third commit practice
 Fourth commit practice
 more commit
 one more commit
+merge practice
